@@ -41,7 +41,7 @@ inquirer
               <meta charset="UTF-8">
               <meta http-equiv="X-UA-Compatible" content="ie=edge">
               <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css">
-              <title>Document</title>
+              <title>Portfolio</title>
             </head>
             <body>
               <header class="p-5 mb-4 header bg-light">
@@ -52,7 +52,7 @@ inquirer
                   <p class="lead">${data.bio}</p>
                   <h3><span class="badge bg-secondary">Contact Me</span></h3>
                   <ul class="list-group">
-                    <li class="list-group-item">Take a peak at my projects here: https://github.com/${data.github.trim()}</li>
+                    <li class="list-group-item">Take a peak at my projects here: <a href="https://github.com/${data.github.trim()}">${data.github.trim()}</a></li>
                     <li class="list-group-item">LinkedIn: <a href="${data.linkedin}">${data.linkedin}</a></li>
                   </ul>
                 </div>

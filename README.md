@@ -13,6 +13,7 @@ A command-line tool that generates a simple HTML portfolio page from user input.
 * [Tests](#tests)
 * [License](#license)
 * [Questions](#questions)
+* [Deployed Link](#link)
 
 ## <a name="installation"></a>Installation
 
@@ -48,3 +49,6 @@ If you have further questions, you are welcome to reach me through my email at h
 
 You can view my projects by going through my GitHub profile at https://github.com/hazkeel27.
 
+## <a name="link"></a>Deployed Link
+
+https://hazkeel27.github.io/portfolio-generator/
