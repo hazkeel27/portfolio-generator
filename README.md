@@ -17,7 +17,7 @@ A command-line tool that generates a simple HTML portfolio page from user input.
 
 ## <a name="installation"></a>Installation
 
-To install necessary dependencies, run the following command:
+To install the necessary dependencies, run the following command:
 
 ```
 npm init -y && inquirer@8.2.4
@@ -25,11 +25,11 @@ npm init -y && inquirer@8.2.4
 
 ## <a name="usage"></a>Usage
 
-After cloning the repo, user must install NodeJS.
+After cloning the repo, the user must install NodeJS.
 
 ## <a name="contributing"></a>Contribution
 
-The user can add more functionality in terms to the JavaScript for a bigger portfolio.
+The user can add more functionality in terms of JavaScript for a bigger portfolio.
 
 ## <a name="tests"></a>Tests
 
@@ -51,4 +51,3 @@ You can view my projects by going through my GitHub profile at https://github.co
 
 ## <a name="link"></a>Deployed Link
 
-https://hazkeel27.github.io/portfolio-generator/
